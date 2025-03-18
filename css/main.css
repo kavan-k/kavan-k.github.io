@@ -78,7 +78,7 @@ body {
  * -------------------------------------------------------------------
  */
 a, a:visited {
-	color: #000000;
+	color: #ecebeb;
 	-moz-transition: all 0.3s ease-in-out;
 	-o-transition: all 0.3s ease-in-out;
 	-webkit-transition: all 0.3s ease-in-out;
@@ -86,10 +86,9 @@ a, a:visited {
 	transition: all 0.3s ease-in-out;
 }
 a:hover, a:focus, a:active {
-	color: #FF0077;
+	color: #ff0000;
 	outline: 0;
 }
-
 /** 
  * ===================================================================
  * 03. typography & general theme styles - (_document-setup.scss)
